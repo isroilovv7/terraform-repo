@@ -1,0 +1,4 @@
+credentials.txt
+swapfile
+.terraform/
+.terraform/swapfile
